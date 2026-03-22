@@ -7,6 +7,12 @@ class Produto
     private int quantidade;
     private double desconto;
 
+    // Get para pegar o nome quando exibir os produtos
+    public string GetNome()
+{
+    return nome;
+}
+
     // Construtor
     public Produto(string nome, double precoUnitario, int quantidade, double desconto)
     {

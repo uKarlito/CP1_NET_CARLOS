@@ -2,3 +2,14 @@ D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.GeneratedMSBu
 D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.AssemblyInfoInputs.cache
 D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.AssemblyInfo.cs
 D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.csproj.CoreCompileInputs.cache
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\bin\Debug\net10.0\CP1Produtos.exe
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\bin\Debug\net10.0\CP1Produtos.deps.json
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\bin\Debug\net10.0\CP1Produtos.runtimeconfig.json
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\bin\Debug\net10.0\CP1Produtos.dll
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\bin\Debug\net10.0\CP1Produtos.pdb
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.sourcelink.json
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.dll
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\refint\CP1Produtos.dll
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.pdb
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.genruntimeconfig.cache
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\ref\CP1Produtos.dll
