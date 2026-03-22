@@ -7,12 +7,6 @@ class Produto
     private int quantidade;
     private double desconto;
 
-    // Get para pegar o nome quando exibir os produtos
-    public string GetNome()
-{
-    return nome;
-}
-
     // Construtor
     public Produto(string nome, double precoUnitario, int quantidade, double desconto)
     {
@@ -21,6 +15,13 @@ class Produto
         this.quantidade = quantidade;
         this.desconto = desconto;
     }
+
+        // Get para pegar o nome quando exibir os produtos
+    public string GetNome()
+{
+    return nome;
+}
+
 
     // Método para calcular o custo total (Custo Total = Preço Unitário * Quantidade)
     public double CalcularCustoTotal()
