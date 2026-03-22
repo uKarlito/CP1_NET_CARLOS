@@ -1,0 +1,4 @@
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.AssemblyInfoInputs.cache
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.AssemblyInfo.cs
+D:\CARLOS\CP1_NET_CARLOS\CP1Produtos\obj\Debug\net10.0\CP1Produtos.csproj.CoreCompileInputs.cache
